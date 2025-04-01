@@ -1,26 +1,38 @@
+
+
+
+
+/* #C7718E cor 1 */ 
+/* #A72C57 cor 2 */ */
+/* #CA938B cor 3 */
+/* #5C2432 cor 4 */
+/* #733636 cor 5 */
+
+
+
 *{
     font-family: 'Montserrat', sans-serif;
 }
 
 body{
-    background-color: #252525;
+    background-color:#733636;
     color: #FFF;
 }
 
-.primary-bg-color{
-    background-color: #252525;
+.cor-1{
+    background-color: #C7718E;
 }
 
-.secondary-bg-color{
-    background-color: #C09578;
+.cor-2{
+    background-color:#A72C57 ;
 }
 
-.light-bg-color{
-    background-color: #fcf5eb;
+.cor-3{
+    background-color: #CA938B;
 }
 
-.dark-bg-color{
-    background-color: #101010;
+.cor-4{
+    background-color: #5C2432;
 }
 
 .primary-color{
@@ -331,7 +343,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #101010;
+    background-color: #c09578;
 }
 
 #new-products-banner h3{
