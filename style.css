@@ -47,6 +47,12 @@ body{
     color: #fcf5eb;
 }
 
+.base {
+    color: #5C2432;
+}
+
+
+
 /* NAVBAR */
 #navbar .navbar-nav{
     flex-direction: row;
@@ -207,6 +213,8 @@ body{
     justify-content: space-between;
 }
 
+
+
 @media(min-width: 768px){
     #mini-banners .col-12{
         max-width: 30%;
@@ -233,15 +241,22 @@ body{
 }
 
 #mini-banners #mini-banner-1 a:hover{
-    color: #C09578;
+    color: #f5abbe;
 }
 
-#mini-banners #mini-banner-3 a{
-    color: #101010;
+#mini-banners #mini-banner-2 a{
+    color: #FFF;
+}
+
+#mini-banners #mini-banner-2 a:hover{
+    color:#f5abbe;
+}
+#mini-banners #mini-banner-3 a {
+    color: #FFF;
 }
 
 #mini-banners #mini-banner-3 a:hover{
-    color: #c09578;
+    color:#f5abbe;
 }
 
 /* BEST SELLERS */
