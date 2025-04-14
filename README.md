@@ -1,5 +1,7 @@
 # Projeto loja de maquiagem
 Nessa atividade foi proposto para criarmos um site para desenvolver uma página moderna e responsiva para uma loja de maquigem utilizando o Bootstrap.
+_________________________________________________________________________________________
+
 ![image](https://github.com/user-attachments/assets/26769f49-a929-467b-8454-27046fd0bacb)
 _________________________________________________________________________________________
 
