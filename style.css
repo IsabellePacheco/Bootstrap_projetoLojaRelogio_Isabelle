@@ -15,7 +15,7 @@
 }
 
 body{
-    background-color:#733636;
+    background-color:	#f8e7e9;
     color: #FFF;
 }
 
@@ -307,12 +307,12 @@ body{
 
 .btn {
     background-color: transparent;
-    border-color: #C09578;
+    border-color: #733636;
 }
 
 .btn:hover {
-    background-color: #C09578;
-    border-color: #C09578;
+    background-color: #f2d1c9;
+    border-color: #f2d1c9;
 }
 
 
