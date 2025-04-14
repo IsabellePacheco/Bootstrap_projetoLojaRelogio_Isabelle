@@ -309,16 +309,24 @@ body{
     background-color: transparent;
     border-color:#A72C57;
 }
-
+.btn-primary{
+    background-color: transparent;
+    border-color:#A72C57;
+}
+.btn-primary:hover{
+    background-color: #f5abbe;
+    border-color: #f5abbe;
+}
 .btn:hover {
     background-color: #f5abbe;
     
 }
 
 
+
 /* bottom banner */
 #bottom-banner {
-    background-color: #101010;
+    background-color: #A72C57;
     padding: 6em;
     margin-bottom: 4em;
     text-align: center;
