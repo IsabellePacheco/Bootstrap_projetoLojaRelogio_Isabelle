@@ -129,7 +129,7 @@ body{
 
 #search-form, 
 #news-form{
-    border: 2px solid #626262;
+    border: 2px solid #A72C57;
     border-radius: 3px;
     padding: 5px 15px;
 }
@@ -199,7 +199,7 @@ body{
 
 /* MINI BANNERS */
 #mini-banners{
-    margin-top: -3em;
+    margin-top: 3.5em;
     z-index: 10;
 }
 
@@ -307,12 +307,12 @@ body{
 
 .btn {
     background-color: transparent;
-    border-color: #733636;
+    border-color:#A72C57;
 }
 
 .btn:hover {
-    background-color: #f2d1c9;
-    border-color: #f2d1c9;
+    background-color: #f5abbe;
+    
 }
 
 
