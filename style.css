@@ -28,7 +28,7 @@ body{
 }
 
 .cor-3{
-    background-color: #CA938B;
+    background-color: #C7718E;
 }
 
 .cor-4{
@@ -311,12 +311,14 @@ body{
 }
 .btn-primary{
     background-color: transparent;
-    border-color:#A72C57;
+    border-color:#5C2432
 }
 .btn-primary:hover{
     background-color: #f5abbe;
     border-color: #f5abbe;
 }
+
+
 .btn:hover {
     background-color: #f5abbe;
     
@@ -354,7 +356,10 @@ body{
     }
 }
 
-
+.imagens{
+    width: 100px;
+    max-height: 50px;
+}
 /* new oproducts */
 
 #new-products{
@@ -366,7 +371,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #c09578;
+    background-color: #A72C57;
 }
 
 #new-products-banner h3{
@@ -401,22 +406,22 @@ body{
 }
 
 #insta1 {
-    background-image: url(img/insta1.jpg);
+    background-image: url(imagens/iluminador.jpg);
 }
 #insta2 {
-    background-image: url(img/insta2.jpg);
+    background-image: url(imagens/po.jpg);
 }
 #insta3 {
-    background-image: url(img/insta3.jpg);
+    background-image: url(imagens/contorno.jpg);
 }
 #insta4 {
-    background-image: url(img/insta4.jpg);
+    background-image: url(imagens/blush.jpg);
 }
 #insta5 {
-    background-image: url(img/insta5.jpg);
+    background-image: url(imagens/coretivo.jpg);
 }
 #insta6 {
-    background-image: url(img/insta6.jpg);
+    background-image: url(imagens/gloss.jpg);
 }
 
 /* footer */
